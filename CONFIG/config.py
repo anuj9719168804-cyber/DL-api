@@ -22,29 +22,29 @@ class Config(object):
     # Add allowed group IDs - Only these groups will be served by the bot
     ALLOWED_GROUP = []
     # API ID Telegram
-    API_ID = 32086282
+    API_ID = 33029767
     # API HASH Telegram
-    API_HASH = "064a66fe7097452e6ac8f4e8df28aa97"
+    API_HASH = "5d897bed11bc8b062a12f6c1c3c5360a"
     # Bot token
-    BOT_TOKEN = "8708141958:AAE09tud_iZFTvlh6F9aS_uZjVxjdLRpmD4"
+    BOT_TOKEN = "8842343584:AAEfuPC3ZDcJG21NQaJ7qsrL0zKZO1yzQZE"
     # Mini-app URL
-    MINIAPP_URL = "https://t.me/Master_dl_Bot/?startapp"
+    MINIAPP_URL = "http://t.me/AKDownloaderProBot/?startapp"
     # Channel ID for logs (you can use the same 1 channel ID for all LOGS)
-    LOGS_ID = -1003303207554  # Channel ID for logs
-    LOGS_VIDEO_ID = -1003303207554  # Channel ID for video logs
-    LOGS_NSFW_ID = -1003303207554  # Channel ID for video logs with NSWF tags
-    LOGS_IMG_ID = -1003303207554  # Channel ID for media command logs /img 
-    LOGS_PAID_ID = -1003303207554  # Channel ID for paid media logs
-    LOG_EXCEPTION = -1003303207554  # Channel ID for exception logs
+    LOGS_ID = -1004401290975  # Channel ID for logs
+    LOGS_VIDEO_ID = -1004401290975  # Channel ID for video logs
+    LOGS_NSFW_ID = -1004401290975  # Channel ID for video logs with NSWF tags
+    LOGS_IMG_ID = -1004401290975  # Channel ID for media command logs /img 
+    LOGS_PAID_ID = -1004401290975  # Channel ID for paid media logs
+    LOG_EXCEPTION = -1004401290975  # Channel ID for exception logs
     # Channel ID to subscribe to
-    SUBSCRIBE_CHANNEL = -1003890843949
+    SUBSCRIBE_CHANNEL = -1004401290975
     # Add subscription channel - Required (str)
     SUBSCRIBE_CHANNEL_URL = "https://t.me/master_x_bots"
     # Branding / UI text overrides (optional).
     # These values are used by translations via placeholders.
-    REQUIRED_CHANNEL_MENTION = "@Master_x_Bots"
+    REQUIRED_CHANNEL_MENTION = "@AKDownloaderProBot"
     CREDITS_MANAGED_BY = "\n@itszeeshan196"
-    CREDITS_BOTS = "@Master_x_Bots\n@TechZoneX"
+    CREDITS_BOTS = "@AKDownloaderProBot\n@Anujedits76"
     # Session string пользователя для чтения admin logs канала (опционально)
     # Боты не могут читать admin logs, поэтому нужна пользовательская сессия
     # Для генерации session string запустите: python generate_session_string.py
