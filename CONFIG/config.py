@@ -14,11 +14,11 @@ class Config(object):
     # IMPORTANT (REQUIRED) SETTINGS - start filling settings here
     #######################################################        
     # Your bot name - Required (str)
-    BOT_NAME = "Master_dl_Bot"
+    BOT_NAME = "AK Downloaer Pro Bot"
     # A name for users - Required (str)
-    BOT_NAME_FOR_USERS = "Master_dl_Bot" #name in database
+    BOT_NAME_FOR_USERS = "AKDownloaderProBot" #name in database
     # List of administrator IDs
-    ADMIN = [990321391]
+    ADMIN = [8729304171]
     # Add allowed group IDs - Only these groups will be served by the bot
     ALLOWED_GROUP = []
     # API ID Telegram
@@ -39,7 +39,7 @@ class Config(object):
     # Channel ID to subscribe to
     SUBSCRIBE_CHANNEL = -1004401290975
     # Add subscription channel - Required (str)
-    SUBSCRIBE_CHANNEL_URL = "https://t.me/master_x_bots"
+    SUBSCRIBE_CHANNEL_URL = "https://t.me/log_ak_bot"
     # Branding / UI text overrides (optional).
     # These values are used by translations via placeholders.
     REQUIRED_CHANNEL_MENTION = "@AKDownloaderProBot"
