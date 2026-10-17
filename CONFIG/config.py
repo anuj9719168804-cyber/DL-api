@@ -43,7 +43,7 @@ class Config(object):
     # Branding / UI text overrides (optional).
     # These values are used by translations via placeholders.
     REQUIRED_CHANNEL_MENTION = "@AKDownloaderProBot"
-    CREDITS_MANAGED_BY = "\n@itszeeshan196"
+    CREDITS_MANAGED_BY = "\n@Anujedits76"
     CREDITS_BOTS = "@AKDownloaderProBot\n@Anujedits76"
     # Session string пользователя для чтения admin logs канала (опционально)
     # Боты не могут читать admin logs, поэтому нужна пользовательская сессия
