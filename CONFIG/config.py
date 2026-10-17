@@ -51,7 +51,7 @@ class Config(object):
     # User session string for reading the channel's admin logs (optional)
     # Bots cannot read admin logs, so a user session is required
     # To generate a session string, run: python generate_session_string.py
-    CHANNEL_GUARD_SESSION_STRING = "BAHpmQoAkRVsuF5Eg2iaJmYs2rFO7HWnwg76tC6GWr24jQRc_X_kcNu45wzagT5DvydLJm_J30JMcsdohp-CiYohhE3jkKa79CdHg9_Dl7kIdfxbx_EjV2zXrQX_uDRreUAddJSJwnRvlkApHAiCvc2hla1vqV3rdOFO7UtidBtYkk6I9FhnVNCqF4D_1_ba0irThXWbQX_t0OZiBH4PsrLNHoJ6gGPh16YloGeW7XeW1qYFqOWxV7-yKs36ozZT4ltv8GS88fJORBJu6TtdUF3htj1RdBnLE_397uKFbGbAYQsGFnM-1D65NzmfwkwfAOxyoOcxkm0Oa6-VWFYjjQDwQmJo7AAAAAHMaSAdAA"
+    CHANNEL_GUARD_SESSION_STRING = "1BVtsOGYBu1zVZda1qOS74Jx1NEfnHCX5c9s6gpYvNJ_9k48Ehx148K95XP809S66oG9QJOkAyE2bNzEN9L6HVcKOyYCPQ7FZNGiKUVrFiZQYmfj0JP7gnVKqpdCt3lpLyx42e7yW5-fSPXc9MGS-7Aop2IBC3r6eGm_7U-s-dreKHO770EFOg0AqW_FQkRoznpW_NuHSUs9Id-pEhsfKKKu0B1sxMHKKMi6uUtswZqjOV-nEl7kwHQdjDm2Yus2ZoBfS3jXrxKdVQkmBTY7eKKS2HuEYRREeHtW1fX_ysLIxGrTmlUz4vLCB4DrntVNW7Zn_49uRy0wQnCi8tSr_Zmt2zr0P9EE="
     #######################################################
     ###########################################################
     # FOR DOCKER DEPLOYMENT YOU CAN STOP FILL IN HERE
