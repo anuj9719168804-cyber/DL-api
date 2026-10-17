@@ -150,8 +150,8 @@ Use <code>/img URL</code> to download images/photos/albums from many platforms.
 • <code>/img 11-20 URL</code> → download specific range
 • <code>/img 11- URL</code> → download from 11th to the end
 
-👨‍💻 <i>Developer:</i> @itszeeshan196
-🤝 <i>Contributor:</i> @TechZoneX
+👨‍💻 <i>Developer:</i> @Anujedits76
+🤝 <i>Contributor:</i> @Anujedits76
 </blockquote>
     """
     
@@ -176,9 +176,9 @@ Use <code>/img URL</code> to download images/photos/albums from many platforms.
     SEARCH_MSG = """
 🔍 <b>Video search</b>
 
-Press the button below to activate inline search via @vid.
+Press the button below to activate inline search via @ak.
 
-<blockquote>On PC just type <b>"@vid Your_Search_Query"</b> in any chat.</blockquote>
+<blockquote>On PC just type <b>"@ak Your_Search_Query"</b> in any chat.</blockquote>
     """
     
     # Settings and Hints (English)
@@ -253,12 +253,12 @@ Add my bots to your groups to get enhanced features and higher limits!
 ————————————
 💰 <b>Pricing & Setup:</b>
 <blockquote>• Price: <b>$5/month</b> per 1 bot in group
-• Setup: Contact @itszeeshan196
+• Setup: Contact @Anujedits76
 • Payment: 💎TON or other methods💲
 • Support: Full technical support included</blockquote>
 ————————————
 You can add my bots to your group to unblock free 🔞<b>NSFW</b> and to double (x2️⃣) all limits.
-Contact me if you want me to allow your group to use my bots @itszeeshan196
+Contact me if you want me to allow your group to use my bots @Anujedits76
 ————————————
 💡<b>TIP:</b> <blockquote>You can chip in money with any amount of your friends (for example 100 people) and made 1 purchase for whole group - ALL GROUP MEMBERS WILL HAVE FULL UNLIMITED ACCESS to all bots functions in that group for just <b>0.05$</b></blockquote>
     """
