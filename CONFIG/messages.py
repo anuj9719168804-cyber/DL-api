@@ -32,15 +32,15 @@ class Messages(object):
             # Get values from config with proper defaults
             required_channel = getattr(Config, "REQUIRED_CHANNEL_MENTION", "@Master_x_Bots")
             if not required_channel:
-                required_channel = "@Master_x_Bots"
+                required_channel = "@log_ak_bot"
             
-            managed_by = getattr(Config, "CREDITS_MANAGED_BY", "\n@itszeeshan196")
+            managed_by = getattr(Config, "CREDITS_MANAGED_BY", "\n@Anujedits76")
             if not managed_by:
-                managed_by = "\n@itszeeshan196"
+                managed_by = "\n@anujedits76"
             
-            credits_bots = getattr(Config, "CREDITS_BOTS", "@Master_x_Bots\n@TechZoneX")
+            credits_bots = getattr(Config, "CREDITS_BOTS", "@AKDownloaderProBot\n@Anujedits76")
             if not credits_bots:
-                credits_bots = "@Master_x_Bots\n@TechZoneX"
+                credits_bots = "@AKDownloaderProBot\n@Anujedits76"
             
             cost = str(getattr(Config, "NSFW_STAR_COST", 1))
             
